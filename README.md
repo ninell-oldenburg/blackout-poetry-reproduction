@@ -1,6 +1,6 @@
 # Paper Reproduction
 
-This is a paper reproduction of "MAPLE–MAsking words to generate blackout Poetry using sequence-to-sequence LEarning" by Baral, A., Jain, H., Deeksha, D., & Mamatha, H. R..
+This is a paper reproduction of "[MAPLE–MAsking words to generate blackout Poetry using sequence-to-sequence LEarning](https://aclanthology.org/2021.icnlsp-1.6.pdf)" by Baral, A., Jain, H., Deeksha, D., & Mamatha, H. R..
 
 I'm following several courses to get a sense for PyTorch & the huggingface library here.
 
